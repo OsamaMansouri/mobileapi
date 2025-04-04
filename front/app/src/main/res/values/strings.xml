@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">projetws</string>
+
+    <!-- Labels -->
+    <string name="label_nom">Nom :</string>
+    <string name="label_prenom">Prénom :</string>
+    <string name="label_ville">Ville :</string>
+    <string name="label_sexe">Sexe :</string>
+
+    <!-- Buttons -->
+    <string name="btn_add">Ajouter</string>
+
+    <!-- Radio options -->
+    <string name="sexe_homme">Homme</string>
+    <string name="sexe_femme">Femme</string>
+
+    <!-- Spinner entries (you should also create array in arrays.xml) -->
+    <string-array name="villes">
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Marrakech</item>
+        <item>Fès</item>
+        <item>Tanger</item>
+    </string-array>
+</resources>
